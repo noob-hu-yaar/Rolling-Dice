@@ -14,11 +14,15 @@
  ..
 > - **The App is made for animation learning purposes, and comes with basic animation features like an Animation Controller and Curved Animation**
 > - **Upon pressing the roll button, both the dice throw a random value everytime.**
+> - **Gestures have also been include, due to which a double tap on any of the dice, executes a throw on both the dice.**
+> - **A view of the *Home Screen* upon opening, on an Android platform.**
 
-
- 
-
+ ![Screenshot_20201006-232145](https://user-images.githubusercontent.com/48630662/95249270-0c25eb80-0836-11eb-9370-00da300ff03b.jpg)
+> - **A splash screen can also be observed on the screen, while the Home Screen gets started for loading after opening the App.**
 ..
+# Working Video
 
 https://www.dropbox.com/s/fos5f4gax3gupxm/Edited_20201006_233401.mp4?dl=0
-![Screenshot_20201006-232145](https://user-images.githubusercontent.com/48630662/95249270-0c25eb80-0836-11eb-9370-00da300ff03b.jpg)
+
+# Resources to get started with
+> **[The official documentation](https://flutter.dev/docs) is undoubtedly the best documentary to get started with, which provides tutorial and sample guidance for Flutter App development.** 
