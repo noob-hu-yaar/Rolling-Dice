@@ -13,6 +13,7 @@
  
  ..
 > - **The App is made for animation learning purposes, and comes with basic animation features like an Animation Controller and Curved Animation**
+> - **Upon pressing the roll button, both the dice throw a random value everytime.**
 
 
  
@@ -20,3 +21,4 @@
 ..
 
 https://www.dropbox.com/s/fos5f4gax3gupxm/Edited_20201006_233401.mp4?dl=0
+![Screenshot_20201006-232145](https://user-images.githubusercontent.com/48630662/95249270-0c25eb80-0836-11eb-9370-00da300ff03b.jpg)
