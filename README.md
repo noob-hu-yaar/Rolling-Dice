@@ -14,7 +14,7 @@
  ..
 > - **The App is made for animation learning purposes, and comes with basic animation features like an Animation Controller and Curved Animation**
 > - **Upon pressing the roll button, both the dice throw a random value everytime.**
-> - **Gestures have also been include, due to which a double tap on any of the dice, executes a throw on both the dice.**
+> - **Gestures have also been included, due to which a double tap on any of the dice, executes a throw on both the dice.**
 > - **A view of the *Home Screen* upon opening, on an Android platform.**
 
  ![Screenshot_20201006-232145](https://user-images.githubusercontent.com/48630662/95249270-0c25eb80-0836-11eb-9370-00da300ff03b.jpg)
