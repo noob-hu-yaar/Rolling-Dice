@@ -1,5 +1,5 @@
 # Rolling Dice
-> **This is a simple rolling dice app, built with the intention of applying and learning things like Animation, splash screen, app icon etc. in Flutter UI development.**<p></p>
+> **This is a simple rolling dice app, built with the intention of applying and learning things like basic Animation, splash screen, app icon etc. in Flutter UI development.**<p></p>
 > **Flutter made Apps are cross-platform, and uses *Dart Language* as the base language.** 
 
 ## Features
